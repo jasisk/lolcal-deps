@@ -1,0 +1,14 @@
+{
+  "name": "less-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node_modules/less/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean-Charles Sisk <jeancharles@paypal.com>",
+  "license": "ISC",
+  "dependencies": {
+    "less": "^2.5.1"
+  }
+}
